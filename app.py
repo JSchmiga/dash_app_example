@@ -180,10 +180,3 @@ def update_graph(indicator_name, unit2, country_value):
 #---run app---
 if __name__ == '__main__':
     app.run_server()   
-
-
-# In[ ]:
-
-
-
-
